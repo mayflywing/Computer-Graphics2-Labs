@@ -1,0 +1,24 @@
+Iλ = Iαλ*kα*Odλ +
+∑i fatt Ipλi[kd Odλ N·L 
++ ks Osλ（N·H)^n]
+
+Iαλ =RGB of ambient light
+ka = marital characteristic(反射率，0-1)
+Odλ =RGB，object color(diffuse)(0-1)
+
+
+fatt = light source attenuation factor(衰减系数)
+Ip = RGB of point light source
+
+
+kd = diffuse (0-1)
+Odλ =RGB，object color
+
+L' = light direction
+L = one point to light source
+
+specular
+ks = diffuse(how well the object refelect)
+Osλ = color of highlight
+H = halfway vector
+n = how focus light(shinny)(n↑ focus↑）
